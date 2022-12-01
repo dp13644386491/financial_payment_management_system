@@ -20,4 +20,9 @@ public interface ITicketopenBiz {
     * 添加开单信息
     * */
     public int addTicket(Ticketopen ticketopen);
+
+    /**
+     *更改开单数据信息
+     */
+    public Ticketopen upateTicketStatus(Ticketopen ticketopen);
 }

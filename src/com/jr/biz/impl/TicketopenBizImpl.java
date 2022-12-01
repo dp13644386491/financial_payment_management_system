@@ -28,4 +28,11 @@ public class TicketopenBizImpl implements ITicketopenBiz {
     public int addTicket(Ticketopen ticketopen) {
         return 0;
     }
+    /**
+     *更改开单数据信息
+     */
+    @Override
+    public Ticketopen upateTicketStatus(Ticketopen ticketopen) {
+        return null;
+    }
 }

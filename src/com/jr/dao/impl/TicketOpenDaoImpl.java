@@ -40,6 +40,14 @@ public class TicketOpenDaoImpl implements ITicketOpenDao {
     }
 
     /**
+     *更改列表信息
+     */
+    @Override
+    public Ticketopen upateTicketStatus(Ticketopen ticketopen) {
+        return null;
+    }
+
+    /**
      *增删改通用方法
      */
     public int upd(String sql, Object... objs) {

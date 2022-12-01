@@ -21,5 +21,9 @@ public interface ITicketOpenDao {
      * 添加开单信息
      * */
     public int insertTicket(Ticketopen ticketopen);
+    /**
+     *更改开单数据信息
+     */
+    public Ticketopen upateTicketStatus(Ticketopen ticketopen);
 
 }
