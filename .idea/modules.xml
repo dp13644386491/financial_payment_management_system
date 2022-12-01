@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Financial payment system.iml" filepath="$PROJECT_DIR$/Financial payment system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/financial payment system.iml" filepath="$PROJECT_DIR$/financial payment system.iml" />
     </modules>
   </component>
 </project>
